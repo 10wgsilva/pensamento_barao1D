@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+ <!--INFORMAÇÕES PASSADOS PARA O NAVEGADOR-->
+
+<head>
+
+<meta charset="UTF-8"> <!-- aplica o dicionário com acentuações (
+
+português-->
+
+<title>WebCell </title> <!--titulo do nosso site (aba)-->
+
+</head>
+
+
+<div class="bg">
+<!--INFORMAÇÕES QUE IRÃO APARECER NA NOSSA PÁGINA-->
+
+<body style="background: LemonChiffon;"> <!-- Define a cor de fundo do site-->
+
+
+
+<h1 style="text-align: center;">WebCell</h1> <!-- texto centralizado-->
+
+<img class="imagem" src="img.jpg"> <!--Imagem em 100%-->
+<style type="text/css">
+	.imagem{
+		position: relative;
+		right: -37%;
+		width: 25%;
+	}
+
+	.paragrafo{
+		text-align: center;
+	}
+
+	.vermelho{
+		text-align: center;
+		color: red;
+	}
+
+	.vermelho1{
+		color: red;
+		text-align: center;
+	}
+
+	.center{
+		text-align: center;
+	}
+
+	.bg{
+		background-color: ;
+	}
+</style>
+
+
+
+	<p class="paragrafo"> <p class="vermelho">Está procurando uma loja para trocar ou comprar acessórios para o seu celular?</p> <strong> <p class="center">WebCell é a melhor e mais completa loja da cidade.
+
+Aqui você encontra diversas marcas e os melhores acessórios para o seu smartphone.</p></strong>
+
+<p class="vermelho1">Estamos localizados no coração da cidade
+
+Avenida Brasil 1500</p></p>
+
+</div>
